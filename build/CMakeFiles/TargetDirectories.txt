@@ -1,3 +1,0 @@
-C:/Users/iitja/Downloads/placement/cplus/build/CMakeFiles/Code.dir
-C:/Users/iitja/Downloads/placement/cplus/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/iitja/Downloads/placement/cplus/build/CMakeFiles/ZERO_CHECK.dir
